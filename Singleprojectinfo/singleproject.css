@@ -1,0 +1,44 @@
+.single-container{
+  padding: 10px;
+  border: 1px solid #eeeeee;
+  width: 33.3%;
+}
+
+.project-title{
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 10px;
+}
+
+.project-description{
+  color:#bdbdbd;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+
+.project-extrainfo{
+  display: flex;
+  justify-content: space-between;
+}
+
+.project-date{
+  font-size:10px;
+  color:#e0e0e0;
+}
+
+.project-extrainfo-footer{
+  font-size: 10px;
+  color:#bdbdbd;
+}
+
+@media (max-width: 1000px) {
+  .single-container {
+    width: 49.9%;
+  }
+}
+@media (max-width: 600px) {
+  .single-container {
+    width: 100%;
+  }
+}

@@ -1,0 +1,44 @@
+.graph-value{
+  margin-top: 10px;
+}
+.img-graph{
+width: 100%;
+}
+.graph-container{
+  background-color: #ffffff;
+}
+
+.grap-info {
+  border-top: 1px solid #eeeeee;
+}
+
+.graph-header{
+  padding: 23px;
+}
+.divider{
+  width: 1px;
+  height: 40px;
+  background-color: #eeeeee;
+  margin: 0 15px;
+}
+.graph-title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.graph-info-container {
+  padding: 20px 0;
+  display: flex;
+  justify-content: center;
+}
+.title-container{
+  color:#9c9da1;
+  font-size: 15px;
+}
+
+.graph-info{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+

@@ -1,0 +1,15 @@
+.team-container {
+  background-color: #ffffff;
+  margin-top: 20px;
+}
+
+.team-header{
+  padding: 25px;
+  border-bottom: 1px solid #eeeeee; 
+}
+
+.teams-info-container{
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-auto-rows: 46px;
+}
